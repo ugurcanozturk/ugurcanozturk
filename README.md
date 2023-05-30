@@ -8,6 +8,7 @@
 To contact me;
 ugurcan.ozturk3634@gmail.com
 
+Linkedln;
 linkedin.com/in/uğurcan-öztürk-1a137a234
 
 <!---
