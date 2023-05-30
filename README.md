@@ -6,10 +6,15 @@
 - Please feel free to reach out and contribute.
 
 To contact me;
+
+Mail;
+
 ugurcan.ozturk3634@gmail.com
 
 Linkedln;
+
 linkedin.com/in/uğurcan-öztürk-1a137a234
+
 
 <!---
 ugurcanozturk/ugurcanozturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
