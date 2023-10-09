@@ -5,11 +5,6 @@
 - I strive to improve and learn continuously. 
 - Please feel free to reach out and contribute.
 
-To contact me;
-
-Mail;
-
-ugurcan.ozturk3634@gmail.com
 
 
 
